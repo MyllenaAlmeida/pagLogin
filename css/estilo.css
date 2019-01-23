@@ -1,0 +1,23 @@
+body{
+	background-image: url(../imagens/fundo.jpg);
+	background-size: cover no-repeat;
+}
+
+.login-form{
+	margin-top: 170px;
+	margin-bottom: 60px;
+	box-shadow: 0px 0px 10px 1px black;
+	border-radius: 5px;
+	padding-top: 20px;
+	padding-bottom: 30px;
+	color: white;
+}
+
+.btn{
+	background-color: #003EC4;
+	color:white;
+}
+
+.btn:hover{
+	background-color: #0060FF;
+}
